@@ -9,5 +9,9 @@
 <img width="859" height="598" alt="image" src="https://github.com/user-attachments/assets/b38550a8-56c5-4f6d-afdb-fc75bb29ef95" />
 <img width="437" height="528" alt="image" src="https://github.com/user-attachments/assets/d2f3cce2-bd4a-4759-9b05-cf72a4dcfcce" />
 <img width="476" height="591" alt="image" src="https://github.com/user-attachments/assets/8039a114-e7a5-45ca-934d-caae5507b780" />
+<img width="589" height="570" alt="image" src="https://github.com/user-attachments/assets/8fec7eed-b390-4b9f-a347-422ad06489f0" />
+<img width="623" height="505" alt="image" src="https://github.com/user-attachments/assets/dc5c1d0b-6b68-4934-945b-9ae1dc5dbb92" />
+
+
 
 note: this is my first ever project so it may not be perfect. my first time using Github, KiCad and coding. I was very confused along this project and all of the Blueprint people helped a ton! Special thanks to PenguinMo for helping as well.
